@@ -60,6 +60,9 @@ typings/
 # next.js build output
 .next
 
+# macOS system files
+.DS_Store
+
 #Filter out VScode Working Files
 .vscode/*
 !.vscode/settings.json
